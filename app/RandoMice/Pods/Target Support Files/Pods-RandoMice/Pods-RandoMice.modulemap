@@ -1,0 +1,6 @@
+framework module Pods_RandoMice {
+  umbrella header "Pods-RandoMice-umbrella.h"
+
+  export *
+  module * { export * }
+}
